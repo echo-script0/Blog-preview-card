@@ -15,7 +15,7 @@ A responsive and accessible blog preview card built with HTML and CSS. This proj
 - Author section with profile image and name
 
 ## Live Demo
-
+https://echo-script0.github.io/Blog-preview-card/
 
 ## Screenshot
 ![Preview](screenshot.png)
