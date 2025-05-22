@@ -1,0 +1,76 @@
+body {background-color: hsl(47, 88%, 63%);
+      display: flex;
+      justify-content: center; /* Center horizontally */
+      align-items: center; /* Center vertically */
+      height: 100vh; /* Full viewport height */
+      margin: 0; /* Remove default margin */
+      padding: 0; /* Remove default padding */
+        overflow: hidden;}
+
+.container { background-color:hsl(0, 0%, 100%) ; /* Box background color */
+             width: 300px; /* The size you want the box to be */
+             padding: 20px;
+             box-shadow:0 4px 8px rgba(0.4, 0.4, 0.9, 0.9);
+             border-radius: 10px; /* Optional; for rounded edges */
+             display: flex;
+             flex-direction: column;
+             top: 0;
+             height: 400px; /* full container height */}
+
+.container .image { background-image: url('illustration-article\ \(1\).svg');
+                    background-size:cover;
+                    background-repeat: no-repeat;
+                    width: 100%;
+                    height: 170px;
+                    background-position: center;
+                    border-radius: 10px;}
+
+ .container .learning-box {background-color:hsl(47, 88%, 63%);
+                           border-radius: 4px;
+                           padding-left: 10px;
+                           width: 60px;
+                           height: 20px;
+                           padding-right: 10px;
+                           padding-top: 5px;
+                           font-weight: bolder;
+                           font-family: "Figtree", sans-serif;
+                           font-size: 14px;}
+
+.container .p .learning-box {color: hsl(0, 0%, 7%);}
+
+.container .text-one {font-weight: 300;
+                      font-family: "Figtree", serif;
+                      font-size: 14px;}
+
+.container .text-two {font-size: 22px;
+                      color:hsl(0, 0%, 7%);
+                      font-weight: bolder;
+                      font-family: "Figtree", sans-serif;}
+
+.container .text-three {color: hsl(0, 0%, 42%);
+                        font-family: "Figtree", sans-serif;
+                        font-size: medium;
+                        font-weight: 400;}
+
+.container .image-two {background-image: url('image-avatar.webp'); /* make sure the path is correct */
+                       background-repeat: no-repeat;
+                       background-size: 24px 24px;
+                       background-position: left center;
+                       padding-left: 35px; /* space for the image */
+                       height: auto; /* or auto if you want it to grow */
+                       display: flex;
+                       align-items: center;
+                       gap: 10px;}
+
+.container .image-two p {font-family: "Figtree", sans-serif;
+                          color:hsl(0, 0%, 7%);
+                          font-weight: 600;}
+                    
+
+
+      
+      
+      
+      
+    
+    
