@@ -4,7 +4,7 @@ A responsive and accessible blog preview card built with HTML and CSS. This proj
 ## Features
 - Clean, card-based layout
 
-- esponsive design for mobile and desktop (375px – 1440px)
+- Responsive design for mobile and desktop (375px – 1440px)
 
 - Featured image with rounded corners
 
